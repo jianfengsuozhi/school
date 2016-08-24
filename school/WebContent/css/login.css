@@ -1,0 +1,10 @@
+﻿       *{font-family: '微软雅黑';}
+       a{text-decoration: none;}
+		div.login{width: 1024px;height: 585px;background: url(../images/login1.jpg);margin: 20px auto;overflow: hidden;}
+		div.login form{margin-top: 234px;margin-left: 428px;}
+		div.login input{height: 20px;}
+		div.login .text{display: block;}
+		div.login .psw{margin-top: 10px;display: block;margin-bottom: 35px;}
+		div.login button{width: 63px;height: 27px;border: none;opacity: 0;cursor: pointer;float: left;}
+		div.login a.register{margin-left: 30px;display: block;width: 63px;height: 20px;border-radius: 10px;float: left;color:#89cbed;font-weight: bold;font-size: 14px;background: #1d74a1;text-align: center;line-height: 20px;border: 1px solid #55f;}
+		div.login a:hover{color: #f55;}
